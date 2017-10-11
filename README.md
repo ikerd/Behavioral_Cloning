@@ -18,12 +18,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/center.jpg "Center drive"
-[image2]: ./images/recovery_1.jpg "Recovery 1"
-[image3]: ./images/recovery_2.jpg "Recovery 2"
-[image4]: ./images/recovery_3.jpg "Recovery 3"
-[image5]: ./images/Flipped.jpg "Flipped"
-[image6]: ./images/unflipped.jpg "Unflipped"
+[image1]: /images/center.jpg "Center drive"
+[image2]: /images/recovery_1.jpg "Recovery 1"
+[image3]: /images/recovery_2.jpg "Recovery 2"
+[image4]: /images/recovery_3.jpg "Recovery 3"
+[image5]: /images/Flipped.jpg "Flipped"
+[image6]: /images/unflipped.jpg "Unflipped"
 
 
 ## Rubric Points
